@@ -1,6 +1,6 @@
 # RCC Computer Science Club
 
-💬 [Go to Discussions](#discussions) | 📅 [Next Meeting](#meeting)
+💬 [Go to Discussions](https://github.com/RCC-Computer-Science-Club/rcccompsci/discussions) 
 
 ## Discussions
 Ask questions, share projects, or get help:
