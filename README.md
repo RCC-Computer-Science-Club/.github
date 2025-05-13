@@ -9,6 +9,6 @@ Ask questions, share projects, or get help:
 - `#ideas` - Club suggestions
 
 ## Next Meeting
-**Date:** Wednesday @ 3:00 PM  
+**Date:** Wednesday 5/14/25 @ 3:00 PM  
 **Topic:** MIT Hackathon - Closing the Racial Wealth Gap - This Saturday  
 **Location:** TBA 
